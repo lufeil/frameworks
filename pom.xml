@@ -14,6 +14,7 @@
         <module>spring</module>
         <module>redis</module>
         <module>springmvc</module>
+        <module>tools</module>
     </modules>
 
 
